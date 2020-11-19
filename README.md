@@ -23,5 +23,3 @@ This is the Music Player + Lyrics made for the school assignment, please use ard
  This player will play "Twinkle Twinkle Little Star" when you press "1" in the SerialMonitor after you uploading it. In addition, you can play the "Birthday Song" after pressing "2".
 
  The coding is just for my assignment, please use it properly.
- 
- If you have any problems, welcome to contact me by my email:"pliu4@ocdsb.ca".
