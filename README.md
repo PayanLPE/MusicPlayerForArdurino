@@ -1,5 +1,5 @@
 # MusicPlayerForArdurino
-Made by Peien Liu, Dec 08, 2019
+Programmed on Dec 08, 2019
 This is the Music Player + Lyrics made for the school assignment, please use ardiuino to run this code
  The circuit:
  * LCD RS pin to digital pin 12
